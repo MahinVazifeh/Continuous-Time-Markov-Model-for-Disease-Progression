@@ -1,4 +1,4 @@
-## Multi-State & Hidden Markov Modeling of Clinical Data in R
+## Multi-State Markov Modeling of Mondino Foundation Data
 Overview
 
 This R script performs preprocessing, analysis, and modeling of clinical data using Markov models and Hidden Markov Models (HMMs). It primarily focuses on modeling transitions between disease severity states in patients, based on neurological and clinical assessment data, using packages like msm, momentuHMM, and markovchain.
